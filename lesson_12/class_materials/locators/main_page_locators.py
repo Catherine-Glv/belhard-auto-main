@@ -1,0 +1,5 @@
+BUTTON_ACCOUNT_LOCATOR = '//*[@id="header"]/div/div[2]/div/div[3]/div/button'
+BUTTON_COOKIES_APPROVE = '//*[@id="modal-cookie"]/div/div[2]/div/button'
+FIELD_INPUT_ITEM = '//*[@id="catalogSearch"]'
+BUTTON_BASKET_LOCATOR = '//*[@id="header"]/div/div[2]/div/div[4]'
+BUTTON_CATALOG_ITEMS = '//*[@id="header"]/div/div[2]/div/button'
